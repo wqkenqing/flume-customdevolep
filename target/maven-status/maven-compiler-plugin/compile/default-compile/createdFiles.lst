@@ -1,0 +1,6 @@
+util/CommonUtil.class
+com/flume/source/SqlSource.class
+com/flume/source/HttpSource.class
+com/flume/interceptor/AutoMappingKeyInterceptor.class
+com/flume/source/Operate.class
+com/flume/interceptor/AutoMappingKeyInterceptor$Builder.class
